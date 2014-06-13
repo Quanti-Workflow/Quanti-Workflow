@@ -1,0 +1,23 @@
+D:\Ft Data\Sketches\RawtoMGFConsole\RawtoMGFConsole\bin\Debug\RawtoMGFConsole.exe
+D:\Ft Data\Sketches\RawtoMGFConsole\RawtoMGFConsole\bin\Debug\RawtoMGFConsole.pdb
+D:\Ft Data\Sketches\RawtoMGFConsole\RawtoMGFConsole\bin\Debug\MParser.dll
+D:\Ft Data\Sketches\RawtoMGFConsole\RawtoMGFConsole\bin\Debug\MParser.pdb
+D:\Ft Data\Sketches\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Ft Data\Sketches\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\Interop.MSFileReaderLib.dll
+D:\Ft Data\Sketches\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\RawtoMGFConsole.csproj.ResolveComReference.cache
+D:\Ft Data\Sketches\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\RawtoMGFConsole.exe
+D:\Ft Data\Sketches\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\RawtoMGFConsole.pdb
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\Interop.MSFileReaderLib.dll
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\RawtoMGFConsole.csproj.ResolveComReference.cache
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\bin\Debug\RawtoMGFConsole.exe
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\bin\Debug\RawtoMGFConsole.pdb
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\RawtoMGFConsole.exe
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\RawtoMGFConsole.pdb
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\RawtoMGFConsole.csprojResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\Raw2MGF 2.0\bin\Debug\RawtoMGFConsole.exe
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\Raw2MGF 2.0\bin\Debug\RawtoMGFConsole.pdb
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\RawtoMGFConsole.csprojResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\Interop.MSFileReaderLib.dll
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\RawtoMGFConsole.csproj.ResolveComReference.cache
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\RawtoMGFConsole.exe
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\RawtoMGFConsole.pdb

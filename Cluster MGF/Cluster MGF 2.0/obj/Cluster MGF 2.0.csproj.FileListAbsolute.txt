@@ -1,0 +1,22 @@
+D:\Ft Data\Cluster MGF 2.0\Cluster MGF 2.0\bin\Debug\Cluster MGF 2.0.exe
+D:\Ft Data\Cluster MGF 2.0\Cluster MGF 2.0\bin\Debug\Cluster MGF 2.0.pdb
+D:\Ft Data\Cluster MGF 2.0\Cluster MGF 2.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Ft Data\Cluster MGF 2.0\Cluster MGF 2.0\obj\Debug\Cluster MGF 2.0.csproj.GenerateResource.Cache
+D:\Ft Data\Cluster MGF 2.0\Cluster MGF 2.0\obj\Debug\Cluster MGF 2.0.exe
+D:\Ft Data\Cluster MGF 2.0\Cluster MGF 2.0\obj\Debug\Cluster MGF 2.0.pdb
+D:\Ft Data\Cluster MGF 2.0\Cluster MGF 2.0\obj\Debug\Cluster_MGF.Form1.resources
+D:\Ft Data\Cluster MGF 2.0\Cluster MGF 2.0\bin\Debug\MParser.dll
+D:\Ft Data\Cluster MGF 2.0\Cluster MGF 2.0\bin\Debug\MParser.pdb
+D:\Ft Data\Cluster MGF 2.0\Cluster MGF 2.0\bin\Debug\Cluster MGF 2.0.exe.config
+D:\Ft Data\Cluster MGF 2.0\Cluster MGF 2.0\obj\Debug\Cluster_MGF.Properties.Resources.resources
+D:\Ft Data\Quanty Workflow\Currents\Cluster MGF 2.0\Cluster MGF 2.0\bin\Debug\Cluster MGF 2.0.exe.config
+D:\Ft Data\Quanty Workflow\Currents\Cluster MGF 2.0\Cluster MGF 2.0\bin\Debug\Cluster MGF 2.0.exe
+D:\Ft Data\Quanty Workflow\Currents\Cluster MGF 2.0\Cluster MGF 2.0\bin\Debug\Cluster MGF 2.0.pdb
+D:\Ft Data\Quanty Workflow\Currents\Cluster MGF 2.0\Cluster MGF 2.0\bin\Debug\MParser.dll
+D:\Ft Data\Quanty Workflow\Currents\Cluster MGF 2.0\Cluster MGF 2.0\bin\Debug\MParser.pdb
+D:\Ft Data\Quanty Workflow\Currents\Cluster MGF 2.0\Cluster MGF 2.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Currents\Cluster MGF 2.0\Cluster MGF 2.0\obj\Debug\Cluster_MGF.Form1.resources
+D:\Ft Data\Quanty Workflow\Currents\Cluster MGF 2.0\Cluster MGF 2.0\obj\Debug\Cluster_MGF.Properties.Resources.resources
+D:\Ft Data\Quanty Workflow\Currents\Cluster MGF 2.0\Cluster MGF 2.0\obj\Debug\Cluster MGF 2.0.csproj.GenerateResource.Cache
+D:\Ft Data\Quanty Workflow\Currents\Cluster MGF 2.0\Cluster MGF 2.0\obj\Debug\Cluster MGF 2.0.exe
+D:\Ft Data\Quanty Workflow\Currents\Cluster MGF 2.0\Cluster MGF 2.0\obj\Debug\Cluster MGF 2.0.pdb

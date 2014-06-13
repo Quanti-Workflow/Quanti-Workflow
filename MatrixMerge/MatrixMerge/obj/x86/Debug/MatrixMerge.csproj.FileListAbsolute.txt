@@ -1,0 +1,16 @@
+D:\Ft Data\Sketches\MatrixMerge\MatrixMerge\bin\Debug\MatrixMerge.exe
+D:\Ft Data\Sketches\MatrixMerge\MatrixMerge\bin\Debug\MatrixMerge.pdb
+D:\Ft Data\Sketches\MatrixMerge\MatrixMerge\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Ft Data\Sketches\MatrixMerge\MatrixMerge\obj\x86\Debug\MatrixMerge.Form1.resources
+D:\Ft Data\Sketches\MatrixMerge\MatrixMerge\obj\x86\Debug\MatrixMerge.Properties.Resources.resources
+D:\Ft Data\Sketches\MatrixMerge\MatrixMerge\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Ft Data\Sketches\MatrixMerge\MatrixMerge\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Ft Data\Sketches\MatrixMerge\MatrixMerge\obj\x86\Debug\MatrixMerge.exe
+D:\Ft Data\Sketches\MatrixMerge\MatrixMerge\obj\x86\Debug\MatrixMerge.pdb
+D:\Ft Data\Quanty Workflow\Open source\MatrixMerge\MatrixMerge\bin\Debug\MatrixMerge.exe
+D:\Ft Data\Quanty Workflow\Open source\MatrixMerge\MatrixMerge\bin\Debug\MatrixMerge.pdb
+D:\Ft Data\Quanty Workflow\Open source\MatrixMerge\MatrixMerge\obj\x86\Debug\MatrixMerge.Form1.resources
+D:\Ft Data\Quanty Workflow\Open source\MatrixMerge\MatrixMerge\obj\x86\Debug\MatrixMerge.Properties.Resources.resources
+D:\Ft Data\Quanty Workflow\Open source\MatrixMerge\MatrixMerge\obj\x86\Debug\MatrixMerge.csproj.GenerateResource.Cache
+D:\Ft Data\Quanty Workflow\Open source\MatrixMerge\MatrixMerge\obj\x86\Debug\MatrixMerge.exe
+D:\Ft Data\Quanty Workflow\Open source\MatrixMerge\MatrixMerge\obj\x86\Debug\MatrixMerge.pdb

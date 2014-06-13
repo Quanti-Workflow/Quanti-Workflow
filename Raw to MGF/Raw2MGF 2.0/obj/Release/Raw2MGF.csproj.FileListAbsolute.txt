@@ -1,0 +1,10 @@
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\bin\Release\Raw2MGF.exe.config
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\obj\Release\Raw2MGF.exe
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\obj\Release\Raw2MGF.pdb
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\bin\Release\Raw2MGF.exe
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\bin\Release\Raw2MGF.pdb
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\obj\Release\ResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\obj\Release\RawToMGF.Form1.resources
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\obj\Release\Raw2MGF.Properties.Resources.resources
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\obj\Release\ResGen.read.1.tlog
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\obj\Release\ResGen.write.1.tlog

@@ -1,0 +1,22 @@
+D:\Ft Data\MGF HTM New\MGF HTM New\bin\Debug\MGF HTM New.exe
+D:\Ft Data\MGF HTM New\MGF HTM New\bin\Debug\MGF HTM New.pdb
+D:\Ft Data\MGF HTM New\MGF HTM New\bin\Debug\MParser.pdb
+D:\Ft Data\MGF HTM New\MGF HTM New\obj\Debug\ResolveAssemblyReference.cache
+D:\Ft Data\MGF HTM New\MGF HTM New\obj\Debug\MGF_HTM_New.Properties.Resources.resources
+D:\Ft Data\MGF HTM New\MGF HTM New\obj\Debug\MGF HTM New.csproj.GenerateResource.Cache
+D:\Ft Data\MGF HTM New\MGF HTM New\obj\Debug\MGF HTM New.exe
+D:\Ft Data\MGF HTM New\MGF HTM New\obj\Debug\MGF HTM New.pdb
+D:\Ft Data\MGF HTM New\MGF HTM New\bin\Debug\MGF HTM New.exe.config
+D:\Ft Data\MGF HTM New\MGF HTM New\bin\Debug\MParser.dll
+D:\Ft Data\MGF HTM New\MGF HTM New\obj\Debug\MGF_HTM_New.Form1.resources
+D:\Ft Data\Quanty Workflow\Currents\MGF HTM New\MGF HTM New\bin\Debug\MGF HTM New.exe.config
+D:\Ft Data\Quanty Workflow\Currents\MGF HTM New\MGF HTM New\bin\Debug\MGF HTM New.exe
+D:\Ft Data\Quanty Workflow\Currents\MGF HTM New\MGF HTM New\bin\Debug\MGF HTM New.pdb
+D:\Ft Data\Quanty Workflow\Currents\MGF HTM New\MGF HTM New\bin\Debug\MParser.dll
+D:\Ft Data\Quanty Workflow\Currents\MGF HTM New\MGF HTM New\bin\Debug\MParser.pdb
+D:\Ft Data\Quanty Workflow\Currents\MGF HTM New\MGF HTM New\obj\Debug\ResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Currents\MGF HTM New\MGF HTM New\obj\Debug\MGF_HTM_New.Form1.resources
+D:\Ft Data\Quanty Workflow\Currents\MGF HTM New\MGF HTM New\obj\Debug\MGF_HTM_New.Properties.Resources.resources
+D:\Ft Data\Quanty Workflow\Currents\MGF HTM New\MGF HTM New\obj\Debug\MGF HTM New.csproj.GenerateResource.Cache
+D:\Ft Data\Quanty Workflow\Currents\MGF HTM New\MGF HTM New\obj\Debug\MGF HTM New.exe
+D:\Ft Data\Quanty Workflow\Currents\MGF HTM New\MGF HTM New\obj\Debug\MGF HTM New.pdb

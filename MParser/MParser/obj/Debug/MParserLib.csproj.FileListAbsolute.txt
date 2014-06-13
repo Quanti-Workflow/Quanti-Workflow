@@ -1,0 +1,5 @@
+D:\Ft Data\Quanty Workflow\Open source\MParser\MParser\bin\Debug\MParser.dll
+D:\Ft Data\Quanty Workflow\Open source\MParser\MParser\bin\Debug\MParser.pdb
+D:\Ft Data\Quanty Workflow\Open source\MParser\MParser\obj\Debug\MParser.dll
+D:\Ft Data\Quanty Workflow\Open source\MParser\MParser\obj\Debug\MParser.pdb
+D:\Ft Data\Quanty Workflow\Open source\MParser\MParser\obj\Debug\MParserLib.csprojResolveAssemblyReference.cache

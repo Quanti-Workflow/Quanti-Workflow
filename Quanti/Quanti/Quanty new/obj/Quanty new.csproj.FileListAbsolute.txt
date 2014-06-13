@@ -1,0 +1,60 @@
+D:\Ft Data\Quanty new\Quanty new\bin\Release\Quanty new.exe.config
+D:\Ft Data\Quanty new\Quanty new\bin\Release\Quanty new.exe
+D:\Ft Data\Quanty new\Quanty new\bin\Release\Quanty new.pdb
+D:\Ft Data\Quanty new\Quanty new\bin\Release\MParser.dll
+D:\Ft Data\Quanty new\Quanty new\bin\Release\MParser.pdb
+D:\Ft Data\Quanty new\Quanty new\bin\Release\Interop.XRAWFILE2Lib.dll
+D:\Ft Data\Quanty new\Quanty new\obj\Release\ResolveAssemblyReference.cache
+D:\Ft Data\Quanty new\Quanty new\obj\Release\Interop.XRAWFILE2Lib.dll
+D:\Ft Data\Quanty new\Quanty new\obj\Release\Quanty new.csproj.ResolveComReference.cache
+D:\Ft Data\Quanty new\Quanty new\obj\Release\Quanty_new.Form1.resources
+D:\Ft Data\Quanty new\Quanty new\obj\Release\Quanty_new.Properties.Resources.resources
+D:\Ft Data\Quanty new\Quanty new\obj\Release\Quanty new.csproj.GenerateResource.Cache
+D:\Ft Data\Quanty new\Quanty new\obj\Release\Quanty new.exe
+D:\Ft Data\Quanty new\Quanty new\obj\Release\Quanty new.pdb
+D:\Ft Data\Quanty new\Quanty new\bin\Debug\Quanty new.exe.config
+D:\Ft Data\Quanty new\Quanty new\bin\Debug\Quanty new.exe
+D:\Ft Data\Quanty new\Quanty new\bin\Debug\Quanty new.pdb
+D:\Ft Data\Quanty new\Quanty new\bin\Debug\MParser.dll
+D:\Ft Data\Quanty new\Quanty new\bin\Debug\MParser.pdb
+D:\Ft Data\Quanty new\Quanty new\bin\Debug\Interop.XRAWFILE2Lib.dll
+D:\Ft Data\Quanty new\Quanty new\obj\Debug\ResolveAssemblyReference.cache
+D:\Ft Data\Quanty new\Quanty new\obj\Debug\Interop.XRAWFILE2Lib.dll
+D:\Ft Data\Quanty new\Quanty new\obj\Debug\Quanty new.csproj.ResolveComReference.cache
+D:\Ft Data\Quanty new\Quanty new\obj\Debug\Quanty_new.Form1.resources
+D:\Ft Data\Quanty new\Quanty new\obj\Debug\Quanty_new.Properties.Resources.resources
+D:\Ft Data\Quanty new\Quanty new\obj\Debug\Quanty new.csproj.GenerateResource.Cache
+D:\Ft Data\Quanty new\Quanty new\obj\Debug\Quanty new.exe
+D:\Ft Data\Quanty new\Quanty new\obj\Debug\Quanty new.pdb
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\bin\Debug\Quanty new.exe.config
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\bin\Debug\Quanty new.exe
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\bin\Debug\Quanty new.pdb
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\bin\Debug\Interop.XRAWFILE2Lib.dll
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\obj\Debug\ResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\obj\Debug\Interop.XRAWFILE2Lib.dll
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\obj\Debug\Quanty new.csproj.ResolveComReference.cache
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\obj\Debug\Quanty new.csproj.GenerateResource.Cache
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\obj\Debug\Quanty new.exe
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\obj\Debug\Quanty new.pdb
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\obj\Debug\Quanty.Form1.resources
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\obj\Debug\Quanty.Properties.Resources.resources
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\bin\Debug\alglibnet2.dll
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\bin\Debug\System.Data.SQLite.dll
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\bin\Debug\System.Data.SQLite.xml
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\bin\Release\Quanty new.exe.config
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\bin\Release\Quanty new.exe
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\bin\Release\Quanty new.pdb
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\bin\Release\alglibnet2.dll
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\bin\Release\MParser.dll
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\bin\Release\System.Data.SQLite.dll
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\bin\Release\System.Data.SQLite.xml
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\bin\Release\MParser.pdb
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\bin\Release\Interop.XRAWFILE2Lib.dll
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\obj\Release\ResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\obj\Release\Interop.XRAWFILE2Lib.dll
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\obj\Release\Quanty new.csproj.ResolveComReference.cache
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\obj\Release\Quanty.Form1.resources
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\obj\Release\Quanty.Properties.Resources.resources
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\obj\Release\Quanty new.csproj.GenerateResource.Cache
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\obj\Release\Quanty new.exe
+D:\Ft Data\Quanty Workflow\Currents\Quanty new\Quanty new\obj\Release\Quanty new.pdb

@@ -1,0 +1,18 @@
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\bin\Debug\Raw2MGF.exe.config
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\obj\Debug\Raw2MGF.exe
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\obj\Debug\Raw2MGF.pdb
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\bin\Debug\Raw2MGF.exe
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\bin\Debug\Raw2MGF.pdb
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\obj\Debug\RawToMGF.Form1.resources
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\obj\Debug\Raw2MGF.Properties.Resources.resources
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\obj\Debug\Raw2MGF.csprojResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Currents\Raw2MGF 2.1\Raw2MGF 2.0\obj\Debug\Raw2MGF.csproj.GenerateResource.Cache
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\Raw2MGF 2.0\bin\Debug\Raw2MGF.exe.config
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\Raw2MGF 2.0\bin\Debug\Raw2MGF.exe
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\Raw2MGF 2.0\bin\Debug\Raw2MGF.pdb
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\Raw2MGF 2.0\obj\Debug\Raw2MGF.csprojResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\Raw2MGF 2.0\obj\Debug\RawToMGF.Form1.resources
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\Raw2MGF 2.0\obj\Debug\Raw2MGF.Properties.Resources.resources
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\Raw2MGF 2.0\obj\Debug\Raw2MGF.csproj.GenerateResource.Cache
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\Raw2MGF 2.0\obj\Debug\Raw2MGF.exe
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\Raw2MGF 2.0\obj\Debug\Raw2MGF.pdb

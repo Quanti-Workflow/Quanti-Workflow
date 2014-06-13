@@ -1,0 +1,17 @@
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\bin\Debug\Quanty.exe.config
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\bin\Debug\Quanty.exe
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\bin\Debug\Quanty.pdb
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\bin\Debug\MParser.dll
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\bin\Debug\System.Data.SQLite.dll
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\bin\Debug\MParser.pdb
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\bin\Debug\System.Data.SQLite.pdb
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\bin\Debug\System.Data.SQLite.xml
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\bin\Debug\System.Data.SQLite.Linq.pdb
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\bin\Debug\System.Data.SQLite.Linq.xml
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\obj\Debug\Quanty new.csprojResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\obj\Debug\Quanty.Form1.resources
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\obj\Debug\Quanty.Properties.Resources.resources
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\obj\Debug\Quanty new.csproj.GenerateResource.Cache
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\obj\Debug\Quanty.exe
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\obj\Debug\Quanty.pdb

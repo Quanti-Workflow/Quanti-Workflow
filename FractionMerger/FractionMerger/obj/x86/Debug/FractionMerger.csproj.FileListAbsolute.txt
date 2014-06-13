@@ -1,0 +1,13 @@
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\bin\Debug\FractionMerger.exe
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\bin\Debug\FractionMerger.pdb
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\obj\x86\Debug\FractionMerger.Form1.resources
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\obj\x86\Debug\FractionMerger.Properties.Resources.resources
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\obj\x86\Debug\FractionMerger.exe
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\obj\x86\Debug\FractionMerger.pdb
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\bin\Debug\System.Data.SQLite.pdb
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\bin\Debug\System.Data.SQLite.xml
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\bin\Debug\System.Data.SQLite.Linq.pdb
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\bin\Debug\System.Data.SQLite.Linq.xml

@@ -1,0 +1,35 @@
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\bin\Release\Quanty.exe.config
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\obj\Release\Quanty.exe
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\obj\Release\Quanty.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\obj\Release\ResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\obj\Release\Quanty.Form1.resources
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\obj\Release\Quanty.Properties.Resources.resources
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\obj\Release\GenerateResource.read.1.tlog
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\obj\Release\GenerateResource.write.1.tlog
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\bin\Release\Quanty.exe
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\bin\Release\Quanty.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\bin\Release\MParser.dll
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\bin\Release\System.Data.SQLite.dll
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\bin\Release\System.Data.SQLite.Linq.dll
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\bin\Release\MParser.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\bin\Release\System.Data.SQLite.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\bin\Release\System.Data.SQLite.xml
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\bin\Release\System.Data.SQLite.Linq.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti - 2.5.4 - interm\Quanty new\bin\Release\System.Data.SQLite.Linq.xml
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\bin\Release\Quanty.exe.config
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\bin\Release\Quanty.exe
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\bin\Release\Quanty.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\bin\Release\MParser.dll
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\bin\Release\System.Data.SQLite.dll
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\bin\Release\System.Data.SQLite.Linq.dll
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\bin\Release\MParser.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\bin\Release\System.Data.SQLite.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\bin\Release\System.Data.SQLite.xml
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\bin\Release\System.Data.SQLite.Linq.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\bin\Release\System.Data.SQLite.Linq.xml
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\obj\Release\Quanty.Form1.resources
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\obj\Release\Quanty.Properties.Resources.resources
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\obj\Release\Quanty.exe
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\obj\Release\Quanty.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\obj\Release\Quanty new.csprojResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\obj\Release\Quanty new.csproj.GenerateResource.Cache

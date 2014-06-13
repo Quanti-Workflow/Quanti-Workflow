@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartArguments>"D:\Ft Data\Data Samples\EasySpray Test\20121212_S13_3ug_180min_SAMPLEPREP_PM2_Tryp_ORGAN.raw" "D:\Ft Data\Data Samples\EasySpray Test\20121212_S13_3ug_180min_SAMPLEPREP_PM2_Tryp_ORGAN.mgf" 200 2000 0 0 2 4 200 CleanETD:yes Instrument:yes CheckSpectra:yes RTApex:yes</StartArguments>
+  </PropertyGroup>
+</Project>

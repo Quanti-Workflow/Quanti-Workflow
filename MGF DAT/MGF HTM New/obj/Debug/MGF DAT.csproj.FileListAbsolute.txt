@@ -1,0 +1,11 @@
+D:\Ft Data\Quanty Workflow\Open source\MGF DAT\MGF HTM New\bin\Debug\MGF HTM New.exe.config
+D:\Ft Data\Quanty Workflow\Open source\MGF DAT\MGF HTM New\bin\Debug\MGF HTM New.exe
+D:\Ft Data\Quanty Workflow\Open source\MGF DAT\MGF HTM New\bin\Debug\MGF HTM New.pdb
+D:\Ft Data\Quanty Workflow\Open source\MGF DAT\MGF HTM New\bin\Debug\MParser.dll
+D:\Ft Data\Quanty Workflow\Open source\MGF DAT\MGF HTM New\bin\Debug\MParser.pdb
+D:\Ft Data\Quanty Workflow\Open source\MGF DAT\MGF HTM New\obj\Debug\MGF_HTM_New.Form1.resources
+D:\Ft Data\Quanty Workflow\Open source\MGF DAT\MGF HTM New\obj\Debug\MGF_HTM_New.Properties.Resources.resources
+D:\Ft Data\Quanty Workflow\Open source\MGF DAT\MGF HTM New\obj\Debug\MGF DAT.csproj.GenerateResource.Cache
+D:\Ft Data\Quanty Workflow\Open source\MGF DAT\MGF HTM New\obj\Debug\MGF HTM New.exe
+D:\Ft Data\Quanty Workflow\Open source\MGF DAT\MGF HTM New\obj\Debug\MGF HTM New.pdb
+D:\Ft Data\Quanty Workflow\Open source\MGF DAT\MGF HTM New\obj\Debug\MGF DAT.csprojResolveAssemblyReference.cache

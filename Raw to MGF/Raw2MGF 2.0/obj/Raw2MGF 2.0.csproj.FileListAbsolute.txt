@@ -1,0 +1,14 @@
+D:\Ft Data\Raw2MGF 2.0\Raw2MGF 2.0\bin\Debug\Raw2MGF 2.0.exe.config
+D:\Ft Data\Raw2MGF 2.0\Raw2MGF 2.0\bin\Debug\Raw2MGF 2.0.exe
+D:\Ft Data\Raw2MGF 2.0\Raw2MGF 2.0\bin\Debug\Raw2MGF 2.0.pdb
+D:\Ft Data\Raw2MGF 2.0\Raw2MGF 2.0\bin\Debug\MParser.dll
+D:\Ft Data\Raw2MGF 2.0\Raw2MGF 2.0\bin\Debug\MParser.pdb
+D:\Ft Data\Raw2MGF 2.0\Raw2MGF 2.0\bin\Debug\Interop.XRAWFILE2Lib.dll
+D:\Ft Data\Raw2MGF 2.0\Raw2MGF 2.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Ft Data\Raw2MGF 2.0\Raw2MGF 2.0\obj\Debug\Interop.XRAWFILE2Lib.dll
+D:\Ft Data\Raw2MGF 2.0\Raw2MGF 2.0\obj\Debug\Raw2MGF 2.0.csproj.ResolveComReference.cache
+D:\Ft Data\Raw2MGF 2.0\Raw2MGF 2.0\obj\Debug\RawToMGF.Form1.resources
+D:\Ft Data\Raw2MGF 2.0\Raw2MGF 2.0\obj\Debug\Raw2MGF_2._0.Properties.Resources.resources
+D:\Ft Data\Raw2MGF 2.0\Raw2MGF 2.0\obj\Debug\Raw2MGF 2.0.csproj.GenerateResource.Cache
+D:\Ft Data\Raw2MGF 2.0\Raw2MGF 2.0\obj\Debug\Raw2MGF 2.0.exe
+D:\Ft Data\Raw2MGF 2.0\Raw2MGF 2.0\obj\Debug\Raw2MGF 2.0.pdb

@@ -1,0 +1,10 @@
+D:\Ft Data\ClassLibrary1\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+D:\Ft Data\ClassLibrary1\ClassLibrary1\bin\Debug\MParser.dll
+D:\Ft Data\ClassLibrary1\ClassLibrary1\bin\Debug\MParser.pdb
+D:\Ft Data\ClassLibrary1\ClassLibrary1\obj\Debug\MParser.dll
+D:\Ft Data\ClassLibrary1\ClassLibrary1\obj\Debug\MParser.pdb
+D:\Ft Data\MParser\MParser\bin\Debug\MParser.dll
+D:\Ft Data\MParser\MParser\bin\Debug\MParser.pdb
+D:\Ft Data\MParser\MParser\obj\Debug\ResolveAssemblyReference.cache
+D:\Ft Data\MParser\MParser\obj\Debug\MParser.dll
+D:\Ft Data\MParser\MParser\obj\Debug\MParser.pdb

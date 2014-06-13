@@ -1,0 +1,21 @@
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\bin\Debug\QuantiProcess.exe
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\bin\Debug\QuantiProcess.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\bin\Debug\System.Data.SQLite.dll
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\bin\Debug\System.Data.SQLite.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\bin\Debug\System.Data.SQLite.xml
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\bin\Release\QuantiProcess\QuantiProcess.exe
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\Quanti\Quanty new\bin\Release\QuantiProcess\QuantiProcess.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\obj\x86\Debug\Interop.MSFileReaderLib.dll
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\obj\x86\Debug\QuantiProcess.csproj.ResolveComReference.cache
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\obj\x86\Debug\QuantiProcess.exe
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\obj\x86\Debug\QuantiProcess.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\obj\x86\Debug\QuantiProcess.csprojResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\bin\Release\QuantiProcess\QuantiProcess.exe
+D:\Ft Data\Quanty Workflow\Open source\Quanti\Quanti\Quanty new\bin\Release\QuantiProcess\QuantiProcess.pdb
+D:\Ft Data\Quanty Workflow\Open source\Quanti\QuantiProcess\QuantiProcess\obj\x86\Debug\QuantiProcess.csprojResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Open source\Quanti\QuantiProcess\QuantiProcess\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\Ft Data\Quanty Workflow\Open source\Quanti\QuantiProcess\QuantiProcess\obj\x86\Debug\Interop.MSFileReaderLib.dll
+D:\Ft Data\Quanty Workflow\Open source\Quanti\QuantiProcess\QuantiProcess\obj\x86\Debug\QuantiProcess.csproj.ResolveComReference.cache
+D:\Ft Data\Quanty Workflow\Open source\Quanti\QuantiProcess\QuantiProcess\obj\x86\Debug\QuantiProcess.exe
+D:\Ft Data\Quanty Workflow\Open source\Quanti\QuantiProcess\QuantiProcess\obj\x86\Debug\QuantiProcess.pdb

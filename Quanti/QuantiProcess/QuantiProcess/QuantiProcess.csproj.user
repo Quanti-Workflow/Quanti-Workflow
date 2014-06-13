@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <StartWorkingDirectory>D:\Ft Data\Data Samples\PredictAD\Full\</StartWorkingDirectory>
+    <StartArguments>F001464.db3 20101021_01_PMU_CM_1_1.raw 1</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartArguments>"D:\Ft Data\Data Samples\PredictAD\Quanti test\F018762.db3" "D:\Ft Data\Data Samples\PredictAD\Full\20101021_01_PMU_CM_1_1.raw" 1</StartArguments>
+    <StartWorkingDirectory>D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\bin\Debug\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>

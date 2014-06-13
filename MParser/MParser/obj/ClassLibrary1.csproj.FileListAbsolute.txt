@@ -1,0 +1,5 @@
+D:\Ft Data\ClassLibrary1\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+D:\Ft Data\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Ft Data\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Ft Data\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Ft Data\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

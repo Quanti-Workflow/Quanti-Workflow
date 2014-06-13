@@ -1,0 +1,12 @@
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\obj\x86\Release\Interop.AccessibilityCplAdminLib.dll
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\obj\x86\Release\Interop.XRAWFILE2Lib.dll
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\obj\x86\Release\QuantiProcess.csproj.ResolveComReference.cache
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\bin\Release\QuantiProcess.exe
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\bin\Release\QuantiProcess.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\bin\Release\System.Data.SQLite.dll
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\bin\Release\System.Data.SQLite.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\bin\Release\System.Data.SQLite.xml
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\obj\x86\Release\QuantiProcess.exe
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\obj\x86\Release\QuantiProcess.pdb
+D:\Ft Data\Quanty Workflow\Currents\MultiQuanti\QuantiProcess\QuantiProcess\obj\x86\Release\Interop.MSFileReaderLib.dll

@@ -1,0 +1,13 @@
+D:\Ft Data\RawMSBox\RawMSBox\obj\Debug\Interop.MSFileReaderLib.dll
+D:\Ft Data\RawMSBox\RawMSBox\obj\Debug\RawMSBox.csproj.ResolveComReference.cache
+D:\Ft Data\RawMSBox\RawMSBox\bin\Debug\RawMSBox.dll
+D:\Ft Data\RawMSBox\RawMSBox\bin\Debug\RawMSBox.pdb
+D:\Ft Data\RawMSBox\RawMSBox\obj\Debug\RawMSBox.dll
+D:\Ft Data\RawMSBox\RawMSBox\obj\Debug\RawMSBox.pdb
+D:\Ft Data\RawMSBox\RawMSBox\obj\Debug\RawMSBox.csprojResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Open source\RawMSBox\RawMSBox\bin\Debug\RawMSBox.dll
+D:\Ft Data\Quanty Workflow\Open source\RawMSBox\RawMSBox\bin\Debug\RawMSBox.pdb
+D:\Ft Data\Quanty Workflow\Open source\RawMSBox\RawMSBox\obj\Debug\Interop.MSFileReaderLib.dll
+D:\Ft Data\Quanty Workflow\Open source\RawMSBox\RawMSBox\obj\Debug\RawMSBox.csproj.ResolveComReference.cache
+D:\Ft Data\Quanty Workflow\Open source\RawMSBox\RawMSBox\obj\Debug\RawMSBox.dll
+D:\Ft Data\Quanty Workflow\Open source\RawMSBox\RawMSBox\obj\Debug\RawMSBox.pdb

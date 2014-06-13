@@ -1,0 +1,20 @@
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\bin\Debug\FractionMerger.exe
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\bin\Debug\FractionMerger.pdb
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\bin\Debug\System.Data.SQLite.pdb
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\bin\Debug\System.Data.SQLite.xml
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\bin\Debug\System.Data.SQLite.Linq.pdb
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\bin\Debug\System.Data.SQLite.Linq.xml
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\obj\Debug\ResolveAssemblyReference.cache
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\obj\Debug\FractionMerger.Form1.resources
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\obj\Debug\FractionMerger.Properties.Resources.resources
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\obj\Debug\GenerateResource.read.1.tlog
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\obj\Debug\GenerateResource.write.1.tlog
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\obj\Debug\FractionMerger.exe
+D:\Ft Data\Quanty Workflow\Currents\FractionMerger\FractionMerger\FractionMerger\obj\Debug\FractionMerger.pdb
+D:\Ft Data\Quanty Workflow\Open source\FractionMerger\FractionMerger\bin\Debug\FractionMerger.exe
+D:\Ft Data\Quanty Workflow\Open source\FractionMerger\FractionMerger\bin\Debug\FractionMerger.pdb
+D:\Ft Data\Quanty Workflow\Open source\FractionMerger\FractionMerger\obj\Debug\FractionMerger.Form1.resources
+D:\Ft Data\Quanty Workflow\Open source\FractionMerger\FractionMerger\obj\Debug\FractionMerger.Properties.Resources.resources
+D:\Ft Data\Quanty Workflow\Open source\FractionMerger\FractionMerger\obj\Debug\FractionMerger.csproj.GenerateResource.Cache
+D:\Ft Data\Quanty Workflow\Open source\FractionMerger\FractionMerger\obj\Debug\FractionMerger.exe
+D:\Ft Data\Quanty Workflow\Open source\FractionMerger\FractionMerger\obj\Debug\FractionMerger.pdb
