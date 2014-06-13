@@ -1,0 +1,2 @@
+This repository holds sources of Quanti workflow - software for label-free quantitative proteomics analysis by mass spectrometry data. 
+To get Installation package for Windows (32/64-bit) and additional project documentation, please, access the project page http://pkki.mbb.ki.se/Quanti/
