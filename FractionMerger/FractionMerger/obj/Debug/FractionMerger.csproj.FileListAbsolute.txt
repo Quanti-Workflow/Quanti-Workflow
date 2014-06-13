@@ -18,3 +18,4 @@ D:\Ft Data\Quanty Workflow\Open source\FractionMerger\FractionMerger\obj\Debug\F
 D:\Ft Data\Quanty Workflow\Open source\FractionMerger\FractionMerger\obj\Debug\FractionMerger.csproj.GenerateResource.Cache
 D:\Ft Data\Quanty Workflow\Open source\FractionMerger\FractionMerger\obj\Debug\FractionMerger.exe
 D:\Ft Data\Quanty Workflow\Open source\FractionMerger\FractionMerger\obj\Debug\FractionMerger.pdb
+D:\Ft Data\Quanty Workflow\Open source\FractionMerger\FractionMerger\obj\Debug\FractionMerger.csprojResolveAssemblyReference.cache

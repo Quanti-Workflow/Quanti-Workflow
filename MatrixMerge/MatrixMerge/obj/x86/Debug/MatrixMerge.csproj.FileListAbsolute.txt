@@ -14,3 +14,4 @@ D:\Ft Data\Quanty Workflow\Open source\MatrixMerge\MatrixMerge\obj\x86\Debug\Mat
 D:\Ft Data\Quanty Workflow\Open source\MatrixMerge\MatrixMerge\obj\x86\Debug\MatrixMerge.csproj.GenerateResource.Cache
 D:\Ft Data\Quanty Workflow\Open source\MatrixMerge\MatrixMerge\obj\x86\Debug\MatrixMerge.exe
 D:\Ft Data\Quanty Workflow\Open source\MatrixMerge\MatrixMerge\obj\x86\Debug\MatrixMerge.pdb
+D:\Ft Data\Quanty Workflow\Open source\MatrixMerge\MatrixMerge\obj\x86\Debug\MatrixMerge.csprojResolveAssemblyReference.cache
