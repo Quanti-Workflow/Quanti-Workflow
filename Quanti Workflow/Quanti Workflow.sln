@@ -40,9 +40,20 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{30A56772-774D-4221-8FF5-998D31E4DDA3}"
 	ProjectSection(SolutionItems) = preProject
 		..\LICENSE.md = ..\LICENSE.md
+		..\README.md = ..\README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQLite32", "SQLite32", "{14DF5BAA-B32F-4371-9FE6-85FC4E9FE284}"
+	ProjectSection(SolutionItems) = preProject
+		..\SQLite32\SQLite.Interop.dll = ..\SQLite32\SQLite.Interop.dll
+		..\SQLite32\SQLite.Interop.pdb = ..\SQLite32\SQLite.Interop.pdb
+		..\SQLite32\System.Data.SQLite.dll = ..\SQLite32\System.Data.SQLite.dll
+		..\SQLite32\System.Data.SQLite.Linq.dll = ..\SQLite32\System.Data.SQLite.Linq.dll
+		..\SQLite32\System.Data.SQLite.Linq.pdb = ..\SQLite32\System.Data.SQLite.Linq.pdb
+		..\SQLite32\System.Data.SQLite.Linq.xml = ..\SQLite32\System.Data.SQLite.Linq.xml
+		..\SQLite32\System.Data.SQLite.pdb = ..\SQLite32\System.Data.SQLite.pdb
+		..\SQLite32\System.Data.SQLite.xml = ..\SQLite32\System.Data.SQLite.xml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
