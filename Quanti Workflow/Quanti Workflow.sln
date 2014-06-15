@@ -55,6 +55,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQLite32", "SQLite32", "{14
 		..\SQLite32\System.Data.SQLite.xml = ..\SQLite32\System.Data.SQLite.xml
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSFileReader", "MSFileReader", "{66FF9AF0-A87E-41C7-A9AD-2CBD6C71A5C6}"
+	ProjectSection(SolutionItems) = preProject
+		..\MSFileReader\fileio.dll = ..\MSFileReader\fileio.dll
+		..\MSFileReader\Fileio_x64.dll = ..\MSFileReader\Fileio_x64.dll
+		..\MSFileReader\fregistry.dll = ..\MSFileReader\fregistry.dll
+		..\MSFileReader\fregistry_x64.dll = ..\MSFileReader\fregistry_x64.dll
+		..\MSFileReader\MSFileReader_Reference.pdf = ..\MSFileReader\MSFileReader_Reference.pdf
+		..\MSFileReader\XRawfile2.dll = ..\MSFileReader\XRawfile2.dll
+		..\MSFileReader\XRawfile2_x64.dll = ..\MSFileReader\XRawfile2_x64.dll
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -170,5 +181,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{39686C0C-4537-4313-98B8-756D8DB08066} = {14DF5BAA-B32F-4371-9FE6-85FC4E9FE284}
 	EndGlobalSection
 EndGlobal
