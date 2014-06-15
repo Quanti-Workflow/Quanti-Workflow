@@ -57,13 +57,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQLite32", "SQLite32", "{14
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSFileReader", "MSFileReader", "{66FF9AF0-A87E-41C7-A9AD-2CBD6C71A5C6}"
 	ProjectSection(SolutionItems) = preProject
-		..\MSFileReader\fileio.dll = ..\MSFileReader\fileio.dll
-		..\MSFileReader\Fileio_x64.dll = ..\MSFileReader\Fileio_x64.dll
-		..\MSFileReader\fregistry.dll = ..\MSFileReader\fregistry.dll
-		..\MSFileReader\fregistry_x64.dll = ..\MSFileReader\fregistry_x64.dll
-		..\MSFileReader\MSFileReader_Reference.pdf = ..\MSFileReader\MSFileReader_Reference.pdf
-		..\MSFileReader\XRawfile2.dll = ..\MSFileReader\XRawfile2.dll
-		..\MSFileReader\XRawfile2_x64.dll = ..\MSFileReader\XRawfile2_x64.dll
+		..\MSFileReader\MergeModul32Bit.msm = ..\MSFileReader\MergeModul32Bit.msm
+		..\MSFileReader\MergeModul64Bit.msm = ..\MSFileReader\MergeModul64Bit.msm
+		..\MSFileReader\MSFileReader.exe = ..\MSFileReader\MSFileReader.exe
+		..\MSFileReader\Thermo MS File Reader.aip = ..\MSFileReader\Thermo MS File Reader.aip
 	EndProjectSection
 EndProject
 Global
