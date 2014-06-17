@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<FRAGMENT Type="ReadOnly" CreateVersion="9.6.1" RootPath="." Language="en">
-  <COMPONENT cid="caphyon.advinst.msicomp.PreReqComponent">
-    <ROW PrereqKey="ThermoMSFileReade" DisplayName="Thermo MS File Reader" VersionMin="2.0" VersionMax="2.4" SetupFileUrl="MSFileReader.exe" Location="0" ExactSize="0" Win9xVersions="Windows 9x/ME" Operator="1" Options="m" TargetName="MSFileReader.exe" AdditionalFiles="MergeModul32Bit.msm|MergeModul64Bit.msm" Type="1" Feature="ThermoMSFileReade"/>
-  </COMPONENT>
-  <COMPONENT cid="caphyon.advinst.msicomp.PreReqSearchComponent">
-    <ROW SearchKey="MSFileReader.XRawfile" Prereq="ThermoMSFileReade" SearchType="7" SearchString="HKLM\SOFTWARE\Classes\MSFileReader.XRawfile\" VerMin="1.0" Order="1" MsiKey="MSFileReader.XRawfile" Property="PreReqSearch"/>
-  </COMPONENT>
-</FRAGMENT>
