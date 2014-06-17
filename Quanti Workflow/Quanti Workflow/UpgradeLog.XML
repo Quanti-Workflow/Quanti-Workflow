@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Quanti Workflow">
+</Property><Property Name="Solution File" Value="D:\Ft Data\Quanty Workflow\Open source\Quanti Workflow\Quanti Workflow.sln">
+</Property><Property Name="Date" Value="Thursday, June 05, 2014">
+</Property><Property Name="Time" Value="11:49:33">
+</Property></Properties><Event ErrorLevel="0" Project="MGF HTM New" Source="..\MGF DAT\MGF HTM New\MGF HTM New.csproj" Description="Project file successfully backed up as D:\Ft Data\Quanty Workflow\Open source\Quanti Workflow\Backup\MGF HTM New.csproj">
+</Event><Event ErrorLevel="0" Project="MGF HTM New" Source="..\MGF DAT\MGF HTM New\Form1.cs" Description="File successfully backed up as D:\Ft Data\Quanty Workflow\Open source\Quanti Workflow\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="MGF HTM New" Source="..\MGF DAT\MGF HTM New\Form1.Designer.cs" Description="File successfully backed up as D:\Ft Data\Quanty Workflow\Open source\Quanti Workflow\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MGF HTM New" Source="..\MGF DAT\MGF HTM New\Program.cs" Description="File successfully backed up as D:\Ft Data\Quanty Workflow\Open source\Quanti Workflow\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="MGF HTM New" Source="..\MGF DAT\MGF HTM New\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Ft Data\Quanty Workflow\Open source\Quanti Workflow\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MGF HTM New" Source="..\MGF DAT\MGF HTM New\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Ft Data\Quanty Workflow\Open source\Quanti Workflow\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MGF HTM New" Source="..\MGF DAT\MGF HTM New\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Ft Data\Quanty Workflow\Open source\Quanti Workflow\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MGF HTM New" Source="..\MGF DAT\MGF HTM New\Settings.cs" Description="File successfully backed up as D:\Ft Data\Quanty Workflow\Open source\Quanti Workflow\Backup\Settings.cs">
+</Event><Event ErrorLevel="0" Project="MGF HTM New" Source="..\MGF DAT\MGF HTM New\app.config" Description="File successfully backed up as D:\Ft Data\Quanty Workflow\Open source\Quanti Workflow\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="MGF HTM New" Source="..\MGF DAT\MGF HTM New\Properties\Settings.settings" Description="File successfully backed up as D:\Ft Data\Quanty Workflow\Open source\Quanti Workflow\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MGF HTM New" Source="..\MGF DAT\MGF HTM New\Form1.resx" Description="File successfully backed up as D:\Ft Data\Quanty Workflow\Open source\Quanti Workflow\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="MGF HTM New" Source="..\MGF DAT\MGF HTM New\Properties\Resources.resx" Description="File successfully backed up as D:\Ft Data\Quanty Workflow\Open source\Quanti Workflow\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="MGF HTM New" Source="..\MGF DAT\MGF HTM New\MGF HTM New.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="MGF HTM New" Source="..\MGF DAT\MGF HTM New\MGF HTM New.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MGF HTM New" Source="..\MGF DAT\MGF HTM New\MGF HTM New.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MGF HTM New" Source="..\MGF DAT\MGF HTM New\MGF HTM New.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
