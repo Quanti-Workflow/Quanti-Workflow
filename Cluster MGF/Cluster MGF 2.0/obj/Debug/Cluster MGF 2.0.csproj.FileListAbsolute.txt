@@ -30,3 +30,4 @@ D:\Ft Data\Quanty Workflow\Open source\Cluster MGF\Cluster MGF 2.0\bin\Debug\MPa
 D:\Ft Data\Quanty Workflow\Open source\Cluster MGF\Cluster MGF 2.0\obj\Debug\Cluster_MGF.Form1.resources
 D:\Ft Data\Quanty Workflow\Open source\Cluster MGF\Cluster MGF 2.0\obj\Debug\Cluster_MGF.Properties.Resources.resources
 D:\Ft Data\Quanty Workflow\Open source\Cluster MGF\Cluster MGF 2.0\obj\Debug\Cluster MGF 2.0.csproj.GenerateResource.Cache
+D:\Ft Data\Quanty Workflow\Open source\Cluster MGF\Cluster MGF 2.0\obj\Debug\Cluster MGF 2.0.csprojResolveAssemblyReference.cache

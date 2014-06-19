@@ -20,8 +20,11 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Fragmentation {
+    /// <summary>
+    /// Class for peptide features and fragmnets
+    /// </summary>
     public class Peptide{
-        //константы масс аминокислот 
+        //Mass constants
         const double H = 1.00782503;
         const double OH = 17.00273963;
         const double NH2 = 16.01872406;
@@ -44,7 +47,9 @@ namespace Fragmentation {
             'G','A','S','P','V','T','C',
             'L','I','N','D','Q','K','E','M',
             'H','F','R','Y','W'};
-
+        /// <summary>
+        /// Elemental composition of aminoacid residues
+        /// </summary>
         static string[] ElemComps = { "C02H03N1O1S0","C03H05N1O1S0","C03H05N1O2S0","C05H07N1O1S0","C05H09N1O1S0","C04H07N1O2S0","C03H05N1O1S1",
             "C06H11N1O1S0","C06H11N1O1S0","C04H06N2O2S0","C04H05N1O3S0","C05H08N2O2S0","C06H12N2O1S0","C05H07N1O3S0","C05H09N1O1S1",
             "C06H07N3O1S0","C09H09N1O1S0","C06H12N4O1S0","C09H09N1O2S0","C11H10N2O1S0"
@@ -53,6 +58,10 @@ namespace Fragmentation {
         //конструктор 
         public string Sequence;
 
+        /// <summary>
+        /// Peptide constructor
+        /// </summary>
+        /// <param name="Seq">Aminoacid sequence of peptide (1-lettere code)</param>
         public Peptide(string Seq){
             Parsed = new ParsedSequence[Seq.Length];
             Sequence = Seq;
@@ -63,6 +72,11 @@ namespace Fragmentation {
             ParseSeq();
         }
 
+        /// <summary>
+        /// Calculates summed mass of aminoacid residues
+        /// </summary>
+        /// <param name="Seq">Aminoacid sequence</param>
+        /// <returns>summed mass of aminoacid residues</returns>
         public static double CalcMass(string Seq){
             int Count=0;
             double Mass = 0.0;
@@ -80,6 +94,11 @@ namespace Fragmentation {
             return Mass;
         }
 
+        /// <summary>
+        /// Calculates elementary composition of peptide
+        /// </summary>
+        /// <param name="Sequence">Aminoacid sequence</param>
+        /// <returns>String, described elements in format like: C#1#H#1#N#1#O#1#S#1 </returns>
         public static string CalcElemComp(string Sequence) {
             int C = 0, H = 2, N = 0, O = 1, S = 0; //water
             char Residue;
@@ -109,6 +128,9 @@ namespace Fragmentation {
 
         ParsedSequence[] Parsed; 
 
+        /// <summary>
+        /// Calculates masses for b- and y- ions 
+        /// </summary>
         public void ParseSeq(){
             string BEnd,YEnd;
             for (int i = 0 ; i<Sequence.Length ; i++ )	{
@@ -127,11 +149,21 @@ namespace Fragmentation {
             }
         }
 
+        /// <summary>
+        /// Set modofications on peptide sequence 
+        /// </summary>
+        /// <param name="Position">Modified aminoacid</param>
+        /// <param name="Mass">Mass of modification</param>
         public void SetMod(int Position, double Mass){
             Parsed[Position].ModifMass = Mass;
             ParseSeq();
         }
-
+        /// <summary>
+        /// Gets mass of main fragments
+        /// </summary>
+        /// <param name="Kind">a|b|c|x|y|z</param>
+        /// <param name="Number">Index of fragment</param>
+        /// <returns></returns>
         public double GetFragment(string Kind, int Number){
             switch  (Kind) {
                 case "a":

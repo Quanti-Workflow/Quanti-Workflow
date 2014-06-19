@@ -20,3 +20,4 @@ D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\RawtoMGFConsole\RawtoMGFConsol
 D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\RawtoMGFConsole.csproj.ResolveComReference.cache
 D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\RawtoMGFConsole.exe
 D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\RawtoMGFConsole.pdb
+D:\Ft Data\Quanty Workflow\Open source\Raw to MGF\RawtoMGFConsole\RawtoMGFConsole\obj\x86\Debug\RawtoMGFConsole.csprojResolveAssemblyReference.cache

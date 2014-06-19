@@ -23,6 +23,12 @@ using System.IO;
 namespace Mascot{
 
     public class Utils{
+        /// <summary>
+        /// Compare sequence string with respect to I/L equality for mass specs
+        /// </summary>
+        /// <param name="Sequence1">Aminoacid string 1</param>
+        /// <param name="Sequence2">Aminoacid string 2</param>
+        /// <returns></returns>
         public static bool MSEqual(string Sequence1, string Sequence2) {
             if (Sequence1.Length != Sequence2.Length) return false;
             for (int i=0; i<Sequence1.Length ; i++ ){
@@ -35,6 +41,11 @@ namespace Mascot{
             return true;
         }
 
+        /// <summary>
+        /// Calculates the abundance of second isotope peak
+        /// </summary>
+        /// <param name="Seq">Aminoacid sequence</param>
+        /// <returns>Second Isotope peak abundance</returns>
         public static double IsotopicScore(string Seq){
             double score = 0.0;
             for (int i = 0 ; i<Seq.Length ; i++){
@@ -64,7 +75,11 @@ namespace Mascot{
             }
             return (float) score;
         }
-
+        /// <summary>
+        /// Calculates second isotope peak relative abundance for peptide average C13 contribution
+        /// </summary>
+        /// <param name="Mass">Mass</param>
+        /// <returns>Second isotope peak relative abundance</returns>
         public static double AveragineIsotopicScore(double Mass){
             return Mass*0.00052945;
         }
@@ -81,29 +96,88 @@ namespace Mascot{
             return 0;
         }
     }
-
+    /// <summary>
+    /// PSM 
+    /// </summary>
     public class Peptide{
+        /// <summary>
+        /// Aminoacid sequence
+        /// </summary>
         public string Sequence;
+        /// <summary>
+        /// Mascot score
+        /// </summary>
         public double Score;
+        /// <summary>
+        /// Calculated mass
+        /// </summary>
         public double Mass;
+        /// <summary>
+        /// Delta of experimental to calculated mass
+        /// </summary>
         public double Delta;
+        /// <summary>
+        /// List of porotein names
+        /// </summary>
         public string[] ProteinNames;
+        /// <summary>
+        /// Start position for each protein
+        /// </summary>
         public int[] StartPositons;
+        /// <summary>
+        /// End position for each protein
+        /// </summary>
         public int[] EndPositons;
+        /// <summary>
+        /// Modification index for each aminoacid
+        /// </summary>
         public int[] ModIndex;
+        /// <summary>
+        /// Modification index for N-termini
+        /// </summary>
         public int NModIndex;
+        /// <summary>
+        /// Modification index for C-termini
+        /// </summary>
         public int CModIndex;
     }
     
     public class MascotSpectra{
+        /// <summary>
+        /// Mass-to-charge ratio
+        /// </summary>
         public double mz;
+        /// <summary>
+        /// Ion charge
+        /// </summary>
         public int Charge;
+        /// <summary>
+        /// Pure mass calculated by mascot
+        /// </summary>
         public double Mass;
+        /// <summary>
+        /// Intensity as provided by mascot
+        /// </summary>
         public double Intensity;
+        /// <summary>
+        /// Finnegan scan number (if present)
+        /// </summary>
         public int ScanNumber;
+        /// <summary>
+        /// Retention time of MS2 event
+        /// </summary>
         public double RT;
+        /// <summary>
+        /// Retention time for maximum of corresponded MS-only signal
+        /// </summary>
         public double RTApex;
+        /// <summary>
+        /// Title string (if exsists)
+        /// </summary>
         public string Title;
+        /// <summary>
+        /// List of PSMs
+        /// </summary>
         public List<Peptide> Peptides;
 
         //Spectra signals can be introduced here later if necessary 
@@ -113,23 +187,59 @@ namespace Mascot{
     }
 
     public class Protein{
+        /// <summary>
+        /// Name of protein, like "IPI0003232"
+        /// </summary>
         public string Name;
+        /// <summary>
+        /// Long name of protein like "human serum albumin"
+        /// </summary>
         public string Descr;
+        /// <summary>
+        /// Mass of protein
+        /// </summary>
         public double Mass;
     }
 
     public class Mods{
+        /// <summary>
+        /// to which aminoacid applicable
+        /// </summary>
         public string AminoAcids;
+        /// <summary>
+        /// Name like "Oxidation"
+        /// </summary>
         public string Name;
+        /// <summary>
+        /// Mass shift due to modification like 15.99 for oxidation
+        /// </summary>
         public double Mass;
     }
 
+    /// <summary>
+    /// Class for extraction data of mascot .dat files
+    /// </summary>
     public class MascotParser {
+        /// <summary>
+        /// List of processed spectra
+        /// </summary>
         public List<MascotSpectra> Spectra;
+        /// <summary>
+        /// List of all proteins for all PSMs
+        /// </summary>
         public List<Protein> Proteins;
         //one-based
+        /// <summary>
+        /// List of fixed modifications applied to dataset
+        /// </summary>
         public Mods[] FixedMods;
+        /// <summary>
+        /// List of variable modifications applied to dataset
+        /// </summary>
         public Mods[] VaryMods;
+        /// <summary>
+        /// Initial name of MGF file
+        /// </summary>
         public string MGFFileName;
 
         public MascotParser(){
@@ -148,6 +258,11 @@ namespace Mascot{
             return 1;
         }
 
+        /// <summary>
+        /// Fills data structures from specified file
+        /// </summary>
+        /// <param name="FileName">Mascot .dat file</param>
+        /// <returns>1 if success</returns>
         public int ParseFile (string FileName ){
             MFile = new StreamReader(FileName);
             string str = MFile.ReadLine();
@@ -251,7 +366,7 @@ namespace Mascot{
             for(int i = 0 ; i<Spectra.Count ; i++){
                 if (str.Substring(str.IndexOf('=')+1) != "-1") {
                     SpectaNumber = Convert.ToInt32(str.Substring(1,str.IndexOf('_')-1));
-                    //peptide reading loop
+                    //PSMs reading loop
                     while (SpectaNumber-1 == i){
                         Tokens = str.Split(new char[] {'=',',',';'});
                         pep = new Peptide();
@@ -382,6 +497,11 @@ namespace Mascot{
 
         int[] FSNAccessions;
 
+        /// <summary>
+        /// Access to spectra collection by Finnegan scan number
+        /// </summary>
+        /// <param name="SN">Desired scan number</param>
+        /// <returns></returns>
         public MascotSpectra AccessByFSN(int SN){
             if (FSNAccessions[SN] != -1){
                 return Spectra[FSNAccessions[SN]];
@@ -390,6 +510,11 @@ namespace Mascot{
             }
         }
 
+        /// <summary>
+        /// Access to spectra collection by Mascot query number (displayd in Mascot reports)
+        /// </summary>
+        /// <param name="QN"></param>
+        /// <returns></returns>
         public MascotSpectra AccessByQueryNumber(int QN){
             if ( Spectra.Count > QN && QN>0){
                 return Spectra[QN-1];
@@ -398,6 +523,11 @@ namespace Mascot{
             }
         }
 
+
+        /// <summary>
+        /// Check if false discovery rate calculation is availabvle 
+        /// </summary>
+        /// <returns>True if FDR available</returns>
         public bool IsFDRAvialable() {
             bool Res = false;
             for (int i = 0; i < Proteins.Count; i++) {
@@ -405,7 +535,11 @@ namespace Mascot{
             }
             return Res;
         }
-
+        /// <summary>
+        /// Determine Mascot threshold for desired FDR
+        /// </summary>
+        /// <param name="FDR">FDR - </param>
+        /// <returns>Mascot score threshold in percents</returns>
         public double MascotThresForFDR(double FDR) {
             Spectra.Sort(new MascotSpectrabyScore());
             int DirectCount = 0, ReversedCount = 0, i;

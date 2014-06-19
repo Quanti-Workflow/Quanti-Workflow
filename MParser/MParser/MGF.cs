@@ -22,6 +22,9 @@ using System.Text;
 
 namespace MGFParser {
 
+    /// <summary>
+    /// Child Ions
+    /// </summary>
     public struct Childs{
         public double Mass;
         public double Intensity;
@@ -43,19 +46,54 @@ namespace MGFParser {
         }
     }
 
+    /// <summary>
+    /// Spectrum class to store/load to/from MGF
+    /// </summary>
     public class MGFSpectrum {
+        /// <summary>
+        /// Mass to charge ratio
+        /// </summary>
         public double mz;
+        /// <summary>
+        /// Ion Charge
+        /// </summary>
         public int Charge;
+        /// <summary>
+        /// Retention time for MS2 event
+        /// </summary>
         public double RT;
+        /// <summary>
+        /// Retention time for maximum of corresponded MS-only signal
+        /// </summary>
         public double RTApex;
+        /// <summary>
+        /// Finnegan scan number
+        /// </summary>
         public int ScanNumber;
+        /// <summary>
+        /// obsolete
+        /// </summary>
         public int ExpNumber;
+        /// <summary>
+        /// Peptide sequence if available 
+        /// </summary>
         public string Sequence;
+        /// <summary>
+        /// Title string
+        /// </summary>
         public string Title;
+        /// <summary>
+        /// Fragmentation device used "ESI-FTICR"|"ETD-TRAP"
+        /// </summary>
         public string Instrument;
+        /// <summary>
+        /// 
+        /// </summary>
         public List<Childs> Data;
         const int MergeNumber = 1;
-        //только для смердживания 
+        /// <summary>
+        /// obsolete
+        /// </summary>
         public double[] Parents;
 
 
@@ -73,10 +111,18 @@ namespace MGFParser {
             Data = new List<Childs>();
         }
 
+        /// <summary>
+        /// Constructor based on string colllection 
+        /// </summary>
+        /// <param name="MGFStrings">String collection readed from mgf file</param>
         public MGFSpectrum(List<string> MGFStrings):this(){
             ParseMGF(MGFStrings);
         }
 
+        /// <summary>
+        /// Parser of strings from MGF file
+        /// </summary>
+        /// <param name="MGFStrings"></param>
         public void ParseMGF(List<string> MGFStrings){
 
             foreach(string s in MGFStrings){
@@ -147,10 +193,20 @@ namespace MGFParser {
 
         }
 
+        /// <summary>
+        /// Push spectra to mgf file
+        /// </summary>
+        /// <param name="sw">Stream to write</param>
         public void WriteMGF(StreamWriter sw){
             WriteMGF(sw,false);
         }
 
+
+        /// <summary>
+        /// Push spectra to mgf file
+        /// </summary>
+        /// <param name="sw">Stream to write</param>
+        /// <param name="AdvStrings">Write SCANS and RTINSECOND</param>
         public void WriteMGF(StreamWriter sw, bool AdvStrings){
             sw.WriteLine("BEGIN IONS");
             if (mz != 0.0 ){
@@ -188,6 +244,10 @@ namespace MGFParser {
             sw.WriteLine();
         }
 
+        /// <summary>
+        /// obsolete
+        /// </summary>
+        /// <param name="FileName"></param>
         public void WriteDTA(string FileName) {
             StreamWriter sw = new StreamWriter(FileName);
             sw.WriteLine("{0:f4} {1} ", (mz * (double)Charge) - (double)Charge+1.00785, Charge);
@@ -201,6 +261,12 @@ namespace MGFParser {
             Charge = 1;
         }*/
 
+        /// <summary>
+        /// Find nearest peak to specified mass
+        /// </summary>
+        /// <param name="Mass">Mass to search</param>
+        /// <param name="Accuracy">Mass accuracy (Da)</param>
+        /// <returns></returns>
         public int FindPeak(double Mass, double Accuracy){
             int index = 0; 
             if (Data.Count == 0 ) return -1;
@@ -217,11 +283,23 @@ namespace MGFParser {
         }
     }
 
+    /// <summary>
+    /// Represents MGF File
+    /// </summary>
     public class MGFFile{
 
+        /// <summary>
+        /// List of spectra 
+        /// </summary>
         public List<MGFSpectrum> Spectra; 
 
+        /// <summary>
+        /// Original File Name
+        /// </summary>
         string MGFFileName;
+        /// <summary>
+        /// COM strings of MGF file
+        /// </summary>
         public List<string> MGFComments;
 
         public MGFFile(){ 
@@ -229,6 +307,10 @@ namespace MGFParser {
             MGFComments = new List<string>();
         }
 
+        /// <summary>
+        /// Read set of spectra from provided file
+        /// </summary>
+        /// <param name="FileName">MGF file name</param>
         public void MGFRead(string FileName){
 
             Spectra = new List<MGFSpectrum>();
@@ -254,10 +336,18 @@ namespace MGFParser {
             }
         }
 
+        /// <summary>
+        /// Write set of spectra to provided file
+        /// </summary>
+        /// <param name="FileName">MGF file name</param>
         public void MGFWrite(string FileName){
             MGFWrite(FileName,false);
         }
 
+        /// <summary>
+        /// Write set of spectra to provided file
+        /// </summary>
+        /// <param name="FileName">MGF file name</param>
         public void MGFWrite(string FileName, bool AdvStrings){
 
             StreamWriter sw = new StreamWriter(FileName);
